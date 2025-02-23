@@ -1,4 +1,1 @@
-flask
-pdfplumber
-xmltodict
-gunicorn
+"flask\npdfplumber\nxmltodict\ngunicorn" 
