@@ -1,2 +1,5 @@
-"flask\npdfplumber\nxmltodict\ngunicorn" 
-"gunicorn" 
+-e "flask\npdfplumber\nxmltodict\ngunicorn" 
+flask
+pdfplumber
+xmltodict
+gunicorn
