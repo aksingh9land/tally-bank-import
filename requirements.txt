@@ -1,1 +1,2 @@
 "flask\npdfplumber\nxmltodict\ngunicorn" 
+"gunicorn" 
